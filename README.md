@@ -1,2 +1,2 @@
 # hello-world
-learning
+biginner of learning python and R
